@@ -7,7 +7,7 @@
 
  <p align="center"> 
 
-  ![Snake animation](https://github.com/danielbped/EfremFz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/EfremFz/EfremFz/blob/output/github-contribution-grid-snake.svg)
  </p>
 
 ###
