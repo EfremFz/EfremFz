@@ -5,7 +5,10 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/EfremFz/EfremFz/blob/output/snake.svg" alt="Snake animation" />
+ <p align="center"> 
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+ </p>
 
 ###
 
