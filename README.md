@@ -3,15 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Efremfz" height="150" alt="languages graph"  />
 </div>
 
-###
 
-  ![Snake animation](https://github.com/EfremFz/EfremFz/blob/output/github-contribution-grid-snake.svg)
-  
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/EfremFz/count.svg?"  />
-</div>
 
 ###
 
