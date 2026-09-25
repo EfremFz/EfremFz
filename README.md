@@ -5,12 +5,14 @@
 <br><br>
 </div>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EfremFz&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=EfremFz&show_icons=true&include_all_commits=true&theme=dark_github)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=EfremFz&layout=compact&langs_count=14&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=EfremFz&layout=compact&langs_count=14&theme=blue_navy)
+
+
+|     |     |
+| --- | --- |
+| [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EfremFz&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=EfremFz&show_icons=true&include_all_commits=true&theme=dark_github) | [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=EfremFz&layout=compact&langs_count=14&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=EfremFz&layout=compact&langs_count=14&theme=blue_navy) | 
 
 
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/efrem-mederico-ferreira-de-souza-4a24191b3" target="_blank">
