@@ -1,7 +1,7 @@
 <center><h1>Bem-vindo ao meu GitHub !</center>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<center><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"></center>
 <br><br>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EfremFz&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=EfremFz&show_icons=true&include_all_commits=true&theme=dark_github)
